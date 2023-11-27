@@ -1,1 +1,1 @@
-my first created directory
+my first created directory README.md 
